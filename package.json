@@ -1,0 +1,15 @@
+{
+  "name": "whosubmodules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@octokit/graphql": "^4.5.8",
+    "@octokit/rest": "^18.0.12",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
