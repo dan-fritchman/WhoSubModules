@@ -1,5 +1,6 @@
 .env 
-repos.json 
+.ipynb*
+repos/*.json 
 
 # Logs
 logs
